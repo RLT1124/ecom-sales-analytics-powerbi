@@ -37,5 +37,5 @@ Technologies Used
 - DAX for calculated measures
 
 Dashboard Preview
-
+https://github.com/RLT1124/ecom-sales-analytics-powerbi/blob/main/Dashboard.png
 
